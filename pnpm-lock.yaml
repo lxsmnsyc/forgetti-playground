@@ -24,8 +24,8 @@ dependencies:
     specifier: ^6.0.1
     version: 6.0.1(@lezer/common@1.1.1)
   forgetti:
-    specifier: ^0.8.4
-    version: 0.8.4(@babel/core@7.23.9)
+    specifier: ^0.8.5
+    version: 0.8.5(@babel/core@7.23.9)
   solid-js:
     specifier: ^1.8.6
     version: 1.8.6
@@ -1089,8 +1089,8 @@ packages:
       to-regex-range: 5.0.1
     dev: true
 
-  /forgetti@0.8.4(@babel/core@7.23.9):
-    resolution: {integrity: sha512-F3oCFWHbn3WoUakc1O4sWOPeSDJyB9/IehoKZ7YT2AEtHJYMA5E7XMiPX4f/Z8vXTJ9rkTDYXynleSeP6VdxJA==}
+  /forgetti@0.8.5(@babel/core@7.23.9):
+    resolution: {integrity: sha512-2gyxYyw3940yXRRJf/+FmrZb17Hf5HjiaqBg2xSKlYDRWtdNrxP6Y4uX+yGw++f0y/Rc1eBoENUOR04svCa4JA==}
     engines: {node: '>=10'}
     peerDependencies:
       '@babel/core': ^7
